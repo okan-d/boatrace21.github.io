@@ -105,3 +105,11 @@ ul {
   max-width: 80vw;
   max-height: 70vh;
 }
+#assessmentlinks:first-child{
+  color: white;
+  padding: 20rem 0 0 0;
+}
+#assessmentlinks h1{
+  color: white;
+  padding: 0;
+}
